@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: dds1q_token_native_application_change#@@@@@
+  secret: dds1q_token_native_application_change123
 
 gateway:
   ip: 192.168.45.169
